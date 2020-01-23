@@ -1,0 +1,14 @@
+{
+  "name": "smart-control-rest2",
+  "version": "1.0.0",
+  "description": "A rest api for the mobile application of the smart control infrastructure",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "4IG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
